@@ -2,6 +2,8 @@
 
 BeginPackage["RLinkX`", {"RLink`"}]
 
+InstallRX::usage = "InstallRX[] will launch an external version of R."
+
 Begin["`Private`"]
 
 (* set the location of your R installation here *)
